@@ -1,0 +1,3 @@
+/home/kemier/project/httpserver-demo/build/CMakeFiles/rebuild_cache.dir
+/home/kemier/project/httpserver-demo/build/CMakeFiles/edit_cache.dir
+/home/kemier/project/httpserver-demo/build/CMakeFiles/server.dir

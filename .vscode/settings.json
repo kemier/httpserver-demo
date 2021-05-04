@@ -1,0 +1,5 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "/home/kemier/project/github/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    }
+}

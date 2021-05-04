@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kemier/project/httpserver-demo/build",
+  "command": "/bin/gcc-10  -isystem /home/kemier/project/github/vcpkg/installed/x64-linux/include -isystem /home/kemier/project/github/vcpkg/installed/x64-linux/share/cjson/../../include  -g   -o CMakeFiles/server.dir/server.c.o   -c /home/kemier/project/httpserver-demo/server.c",
+  "file": "/home/kemier/project/httpserver-demo/server.c"
+}
+]
